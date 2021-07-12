@@ -9,4 +9,4 @@ Here I aim to understand the factors which determine who is at the greatest risk
 
 Additionally, I created a **regression prediction model** to predict the number of suicides given GDP data and other demographic variables. Models used include linear regression, decision tree and random forest. 
 
-Please visit for detailed steps.
+Please visit https://aelb66.github.io/Suicide-Rate-Regression-Model/ for detailed steps.
